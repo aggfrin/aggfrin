@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./myBenner.jpg" alt="Aggfrin — Web Developer in Progress" width="100%">
+</p>
 # 👋 Halo, saya Aggfrin!
 
 ### 🌿 Web Developer in Progress
