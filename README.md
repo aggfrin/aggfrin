@@ -1,13 +1,14 @@
 <p align="center">
   <img src="./myBenner.jpg" alt="Aggfrin — Web Developer in Progress" width="100%">
 </p>
-# 👋 Halo, saya Aggfrin!
+# 👋 Bismillah. Sholallahu ala Muhammad
+Halo, saya Agung fajrin!
 
 ### 🌿 Web Developer in Progress
 
 Selamat datang di profil GitHub saya!
 
-Saya sedang belajar dan mengembangkan proyek website yang sederhana, elegan, dan bermanfaat. Saya percaya bahwa setiap proyek adalah kesempatan untuk belajar dan menjadi lebih baik.
+Saya sedang belajar dan mengembangkan proyek website yang sederhana, elegan, yang insysaAllah bermanfaat. Saya percaya bahwa setiap proyek adalah kesempatan untuk belajar dan menjadi lebih baik.
 
 ---
 
