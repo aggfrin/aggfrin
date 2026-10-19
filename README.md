@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./myBenner.jpg" alt="Aggfrin — Web Developer in Progress" width="100%">
 </p>
-# 👋 Bismillah. Sholallahu ala Muhammad
+# 👋 Bismillah. Sholallahu ala Muhammad...
 Halo, saya Agung fajrin!
 
 ### 🌿 Web Developer in Progress
