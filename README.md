@@ -43,3 +43,25 @@ https://maslahah-catering.pages.dev/
 ### ✨ Terus belajar, terus bertumbuh.
 
 *Terima kasih sudah mengunjungi profil saya!*
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aggfrin&show_icons=true&theme=transparent&title_color=8A9A5B&icon_color=8A9A5B&text_color=808080&hide_border=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggfrin&layout=compact&theme=transparent&title_color=8A9A5B&text_color=808080&hide_border=true"
+    alt="Most Used Languages"
+    width="48%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Learn · Build · Grow</i>
+</p>
