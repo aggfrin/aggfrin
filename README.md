@@ -1,39 +1,45 @@
 <p align="center">
   <img src="./myBenner.jpg" alt="Aggfrin — Web Developer in Progress" width="100%">
-</p>
-# 👋 Bismillah. Sholallahu ala Muhammad...
-Halo, saya Agung fajrin!
+</p>👋 Bismillah. Shalallahu 'ala Muhammad...
 
-### 🌿 Web Developer in Progress
+Halo, saya Agung Fajrin!
+
+🌿 Web Developer in Progress
 
 Selamat datang di profil GitHub saya!
 
-Saya sedang belajar dan mengembangkan proyek website yang sederhana, elegan, yang insysaAllah bermanfaat. Saya percaya bahwa setiap proyek adalah kesempatan untuk belajar dan menjadi lebih baik.
+Saya sedang belajar dan mengembangkan proyek website yang sederhana, elegan, dan insyaAllah bermanfaat. Saya percaya bahwa setiap proyek adalah kesempatan untuk belajar dan menjadi lebih baik.
 
 ---
 
-## 🚀 Proyek Unggulan
+🚀 Proyek Unggulan
 
-### 🍽️ Maslahah Catering
+🌐 1. Personal Website — MY PROFILE
+
+Website pribadi yang berisi profil, media sosial, dan halaman khusus Mobile Legends.
+
+🔗 Kunjungi Website:
+https://agungfajrin.pages.dev/
+
+🍽️ 2. Maslahah Catering
+
 Website layanan aqiqah dan catering dengan tampilan elegan dan informatif.
 
-🔗 **Kunjungi Website:**  
+🔗 Kunjungi Website:
 https://maslahah-catering.pages.dev/
 
 ---
 
-## 🛠️ Teknologi yang Saya Pelajari
+🛠️ Teknologi yang Saya Pelajari
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+</p>---
 
----
-
-## 🎯 Fokus Saya
+🎯 Fokus Saya
 
 - 🌐 Mengembangkan website yang responsif
 - 🎨 Mempelajari desain web yang bersih dan elegan
@@ -41,12 +47,13 @@ https://maslahah-catering.pages.dev/
 
 ---
 
-### ✨ Terus belajar, terus bertumbuh.
+✨ Terus belajar, terus bertumbuh.
 
-*Terima kasih sudah mengunjungi profil saya!*
+Terima kasih sudah mengunjungi profil saya!
+
 ---
 
-## 📊 GitHub Overview
+📊 GitHub Overview
 
 <p align="center">
   <img
@@ -59,9 +66,7 @@ https://maslahah-catering.pages.dev/
     alt="Most Used Languages"
     width="48%"
   />
-</p>
-
----
+</p>---
 
 <p align="center">
   <i>Learn · Build · Grow</i>
